@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muztaba Anjum
+# 👋 Hi, I'm Muztaba 
 
 Welcome to my GitHub profile! I'm a **Data Analyst & Business Analyst** passionate about transforming raw data into actionable insights that drive business growth and informed decision-making.
 
